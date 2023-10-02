@@ -68,4 +68,4 @@ You can run the Python code to perform the above steps. Make sure to adjust hype
 
 This README provides an overview of the steps required to create a stock price prediction model using LSTM for AAPL. Keep in mind that stock price prediction is a complex task, and model performance may vary. Experiment with different architectures, hyperparameters, and additional features to improve prediction accuracy.
 
-Good luck with your stock price prediction project!
+*Good luck with your stock price prediction project!*
